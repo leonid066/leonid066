@@ -1,8 +1,8 @@
 <h2>  Welcome to my Github, I'm <a href="https://www.linkedin.com/in/leonid-kierchiev-6a8164aa/" target="_blank"> Leonid Kierchiev</a>   </h2>
 
-
-<img align="center"  src="https://github.com/leonid066/leonid066/blob/main/picture.gif")
-
+<p align="center">
+    <img src="https://github.com/leonid066/leonid066/blob/main/picture.gif")>
+</p>
 
 - Currently - Software Engineer at <a href="https://www.interwatersllc.com/" target="_blank"> Interwaters Development LLC</a> which is a US based IT Infrastructure company. 
 - Interests: Big Data; Applied Math; Corporate Finance; Equities and Derivatives and their price develpment; Financial Markets Microstructure.
