@@ -99,7 +99,7 @@
 <a href="https://www.linkedin.com/in/leonid-kierchiev-6a8164aa/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" width=80px height=40px title="LinkedIn" />
 </a> 
 &nbsp;  
-<a href="https://tryhackme.com/p/leonid066" target="_blank"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width=80px height=80px title="twitter"/></a>  
+<a href="https://tryhackme.com/p/leonid066" target="_blank"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width=65px height=65px title="twitter"/></a>  
 &nbsp;  
 <a href="https://twitter.com/leonid066" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg" width=40px height=40px title="twitter"/></a>  
 &nbsp;  
