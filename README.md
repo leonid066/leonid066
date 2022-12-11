@@ -4,7 +4,7 @@
     <img src="https://github.com/leonid066/leonid066/blob/main/picture.gif")>
 </p>
 
-- Currently - Software Engineer at <a href="https://www.interwatersllc.com/" target="_blank"> Interwaters Development LLC</a> which is a US based IT Infrastructure company. 
+- Currently - Software Engineer at <a href="https://www.interwatersllc.com/" target="_blank"> Interwaters Development LLC</a>. 
 - Interests: Big Data; Applied Math; Corporate Finance; Equities and Derivatives and their price develpment; Financial Markets Microstructure.
 
 <h2>🛠 My Toolkit</h2>
