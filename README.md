@@ -81,19 +81,6 @@
     </a>
 </p>
 
-
-<h2 >🏆 Github Stats</h2>
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=leonid066&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Leonid066's Github Stats" width="45%"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leonid066&theme=dark" width="45%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonid066&layout=compact&theme=dark&langs_count=10" width="40%">
-</p>
-
-<p align="center"> 
-    <a href="https://github.com/adityagarde/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=leonid066&color=blue">
-    </a>
-</p>
       
 <h2>🤝 Let's stay connected!</h2>
 <a href="https://www.linkedin.com/in/leonid-kierchiev-6a8164aa/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" width=80px height=40px title="LinkedIn" />
